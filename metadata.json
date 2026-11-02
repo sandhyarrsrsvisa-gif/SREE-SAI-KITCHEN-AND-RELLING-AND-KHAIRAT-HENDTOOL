@@ -1,0 +1,6 @@
+{
+  "name": "RS Store",
+  "description": "Interactive product catalogue and customer trust hub for Ranjeet Sharma with instant image details, Amazon store, WhatsApp, and location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
